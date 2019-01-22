@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ViewMode_LiveData</string>
+    <string name="integer_value_by_defalult_0">Integer Value By Defalult 0</string>
+    <string name="increment_value">Increment Value</string>
+</resources>
